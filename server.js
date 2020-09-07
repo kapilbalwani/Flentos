@@ -41,6 +41,6 @@ function mincost(A,N)
 //var A=[600,800,150,700];
 var A=[1321,2450]
 
-var result=mincost(A,4);
+var result=mincost(A,A.length);
 
 console.log(result);
